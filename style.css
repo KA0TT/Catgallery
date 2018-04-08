@@ -1,0 +1,48 @@
+/*img {
+    box-shadow: 2px 2px 2px 2px #9966cc;
+}*/
+
+body {
+    font-family: 'Yatra One', cursive;
+    padding: 70px;
+    background: silver;
+}
+
+.jumbotron {
+    font-size: 20px;
+    color: #ffd;
+    text-shadow: 4px 4px 6px #ff99ee;
+    box-shadow: 2px 2px 2px 2px #9966dd;
+    background: #bbaaee;
+}
+
+.fas fa paw {
+    color: #fff;
+    text-shadow: 3px 3px 5px #ff99ee;
+}
+
+.navbar {
+    background: #bbaaee;
+    color: #fff;
+    box-shadow: 2px 2px 2px 2px #9966dd;
+}
+
+.nav .navbar-nav .navbar-right>li>a {
+    text-shadow: 3px 3px 5px #ff99ee;
+}
+
+.navbar-inverse .navbar-brand {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 3px 3px 5px #ff99ee;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    font-size: 20px;
+    color: #fff;
+    text-shadow: 3px 3px 5px #ff99ee;
+}
+
+.img-rounded {
+    box-shadow: 2px 2px 2px 2px #9966dd;
+}
